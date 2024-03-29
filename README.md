@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=1500&color=6994CDEE&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+eukkcha's+GitHub!)](https://git.io/typing-svg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feukkcha&count_bg=%236994CDEE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -49,7 +49,3 @@
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Javascript&logoColor=white"> 
 </div><br>
 </div><br>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
