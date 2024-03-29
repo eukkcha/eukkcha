@@ -43,9 +43,9 @@
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div> 
-        <img src="https://img.shields.io/badge/Clanguage-798696?style=for-the-badge&logo=C&logoColor=white"> 
+        <img src="https://img.shields.io/badge/C&#160language-798696?style=for-the-badge&logo=C&logoColor=white"> 
         <img src="https://img.shields.io/badge/matlab-3d506b?style=for-the-badge&logo=Atlassian&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Javascript&logoColor=white"> 
 </div><br>
-</div><br>
+
