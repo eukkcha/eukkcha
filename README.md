@@ -18,7 +18,7 @@
 -------
 
 
-## 💻 DEV's log 💻
+## 💻 Blog 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@eukkcha">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
@@ -40,7 +40,7 @@
 </div><br>
 
 
-## 🔨 Once I've used 🔨
+## 🔨 Language 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div> 
         <img src="https://img.shields.io/badge/C&#160language-798696?style=for-the-badge&logo=C&logoColor=white"> 
