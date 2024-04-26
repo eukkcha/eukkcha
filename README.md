@@ -18,17 +18,6 @@
 -------
 
 
-## 💻 Blog 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@eukkcha">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <a href="https://blog.naver.com/eukkcha">
-        <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Storyblok&logoColor=white"> 
-    </a>
-</div><br>
-
-
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/eukkcha">
