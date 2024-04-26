@@ -16,7 +16,9 @@
 
 
 ## 🏅 Baekjoon solved Rank 🏅
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eukkchan03)](https://solved.ac/eukkchan03)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eukkchan03)](https://solved.ac/eukkchan03)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=eukkchan03&theme=dark)
+
 
 
 ## 🔨 Language 🔨
