@@ -6,7 +6,7 @@
 
 
 
-## 📊 GitHub Stats 📊
+## 📊 GitHub stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=eukkcha&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
@@ -15,7 +15,7 @@
 </a>    
 
 
-## 🏅 Baekjoon solved Rank 🏅
+## 🏅 Baekjoon solved 🏅
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eukkchan03)](https://solved.ac/eukkchan03)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=eukkchan03&theme=dark)
 
