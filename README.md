@@ -2,7 +2,7 @@
 <div align="center">
   
 # 👋 Hello World! 👋
-I am an undergraduate student at Sejong University in Intelligent Mechatronics Engineering, studying to be an App & Web & AI developer. <br>
+I am an undergraduate student at Sejong University in Intelligent Mechatronics Engineering, studying to be an App & AI developer. <br>
 My Reaserch interests are Artificial Intelligence, NLP, Affective Computing, Human-Computer Interaction, Recommender System. <br>
 My main language is C, but I'm trying to learn as many languages as I can. <br>
 
