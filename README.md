@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=100&section=header&text=&fontSize=0" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=1500&color=6994CDEE&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+eukkcha's+GitHub!)](https://git.io/typing-svg)
-
 <div align="center">
-
+  
+# 👋 Hello World! 👋
+I am an undergraduate student at Sejong University in Intelligent Mechatronics Engineering, studying to be an App & Web & AI developer. <br>
+My Reaserch interests are Artificial Intelligence, NLP, Affective Computing, Human-Computer Interaction, Recommender System. <br>
+My main language is C, but I'm trying to learn as many languages as I can. <br>
 
 
 ## 📊 GitHub stats 📊
