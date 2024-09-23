@@ -4,7 +4,6 @@
 # 👋 Hello World! 👋
 I am an undergraduate student at Sejong University in Intelligent Mechatronics Engineering, studying to be an App & AI developer. <br>
 My Reaserch interests are Artificial Intelligence, NLP, Affective Computing, Human-Computer Interaction, Recommender System. <br>
-My main language is C, but I'm trying to learn as many languages as I can. <br>
 
 
 ## 📊 GitHub stats 📊
@@ -41,7 +40,7 @@ My main language is C, but I'm trying to learn as many languages as I can. <br>
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/eukkcha">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
     <a href="mailto:eukkchan03@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
