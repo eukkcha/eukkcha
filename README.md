@@ -28,8 +28,9 @@ My main language is C, but I'm trying to learn as many languages as I can. <br>
         <img src="https://img.shields.io/badge/c-798696?style=for-the-badge&logo=C&logoColor=white"> 
         <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-        <img src="https://img.shields.io/badge/matlab-3d506b?style=for-the-badge&logo=Atlassian&logoColor=white">
-        <img src="https://img.shields.io/badge/react-47a2bb?style=for-the-badge&logo=react&logoColor=white"> 
+        <img src="https://img.shields.io/badge/matlab-3D506B?style=for-the-badge&logo=Atlassian&logoColor=white">
+        <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white">
+        <img src="https://img.shields.io/badge/JAVA-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
       <br>
         <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
         <img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
