@@ -31,7 +31,7 @@ My Reaserch interests are Artificial Intelligence, NLP, Affective Computing, Hum
 </div><br>
 
 
-## 📞 Contact 📞
+## 💻 Blog 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://eukkcha.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
