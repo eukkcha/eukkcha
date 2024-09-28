@@ -15,12 +15,6 @@ My Reaserch interests are Artificial Intelligence, NLP, Affective Computing, Hum
 </a>    
 
 
-## 🏅 Baekjoon solved 🏅
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eukkchan03)](https://solved.ac/eukkchan03)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=eukkchan03&theme=dark)
-
-
-
 ## 🔨 Language 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div> 
