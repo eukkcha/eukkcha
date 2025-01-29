@@ -22,12 +22,13 @@ My Reaserch interests are Artificial Intelligence, NLP, Affective Computing, Hum
         <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
         <img src="https://img.shields.io/badge/matlab-3D506B?style=for-the-badge&logo=Atlassian&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-        <img src="https://img.shields.io/badge/JAVA-DA6901?style=for-the-badge&logo=eclipseide&logoColor=white">
         <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+        <img src="https://img.shields.io/badge/JAVA-DA6901?style=for-the-badge">
       <br>
         <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
         <img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+        <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">        
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div><br>
 
