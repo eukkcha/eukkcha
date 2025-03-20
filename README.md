@@ -3,7 +3,7 @@
   
 # 👋 Hello World! 👋
 I am an undergraduate student at Sejong University in Intelligent Mechatronics Engineering, studying to be an App & AI developer. <br>
-My Reaserch interests are Artificial Intelligence, NLP, Affective Computing, Human-Computer Interaction, Recommender System. <br>
+My Reaserch interests are Artificial Intelligence, NLP, CNN, LLM, Affective Computing, Human-Computer Interaction, Recommender System. <br>
 
 
 ## 📊 GitHub stats 📊
