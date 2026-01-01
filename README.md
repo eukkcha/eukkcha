@@ -5,16 +5,6 @@
 I am an undergraduate student at Sejong University in Intelligent Mechatronics Engineering, studying to be an AI developer. <br>
 My Reaserch interests are Artificial Intelligence, NLP, LLM, CNN, Computer Vision and Human-Computer Interaction. <br>
 
-
-## 📊 GitHub stats 📊
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=eukkcha&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eukkcha&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-
-
 ## 🔨 Language 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div> 
