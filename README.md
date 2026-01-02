@@ -21,6 +21,7 @@ My Reaserch interests are Artificial Intelligence, NLP, LLM, CNN, Computer Visio
 </div><br>
 
 
+
 ## 💻 Blog 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://eukkcha.tistory.com/">
