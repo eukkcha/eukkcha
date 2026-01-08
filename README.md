@@ -2,8 +2,8 @@
 <div align="center">
   
 # 👋 Hello World! 👋
-I am an undergraduate student at Sejong University in Intelligent Mechatronics Engineering, studying to be an AI developer. <br>
-My Reaserch interests are Artificial Intelligence, NLP, LLM, CNN, Computer Vision and Human-Computer Interaction. <br>
+I am an undergraduate student at Sejong University in Intelligent Mechatronics Engineering, studying to be an AI Robotics developer. <br>
+My Reaserch interests are Artificial Intelligence, NLP, LLM, CNN, Computer Vision, Physical AI and Robotics. <br>
 
 ## 🔨 Language 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
