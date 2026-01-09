@@ -2,7 +2,7 @@
 <div align="center">
   
 # 👋 Hello World! 👋
-I am an undergraduate student at Sejong University in Intelligent Mechatronics Engineering, studying to be an AI Robotics developer. <br>
+I am an undergraduate student at Sejong University in Intelligent Mechatronics Engineering. <br>
 My Reaserch interests are Artificial Intelligence, NLP, LLM, CNN, Computer Vision, Physical AI and Robotics. <br>
 
 ## 🔨 Language 🔨
