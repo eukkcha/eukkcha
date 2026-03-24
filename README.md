@@ -1,10 +1,12 @@
 ## 🧑🏻‍💻 Whoami
 I am an undergraduate student at **Sejong University** <br>
-in **Intelligent Mechatronics Engineering**(Unmanned Vehicle Engineering). <br>
+in **Intelligent Mechatronics Engineering** (Unmanned Vehicle Engineering). <br>
 My core expertise is **Model-Based Design (MBD)**, with a focus on:
-* **Control Logic Development** using `MATLAB` & `Simulink`.
-* **System Validation** via **MIL / SIL / HIL** simulations.
-* **Embedded SW Implementation** (Porting control algorithms to MCU hardware). <br>
+- ⚙️ **Control Logic Development** using `MATLAB` & `Simulink`.
+- 🧪 **System Validation** via **MIL / SIL / HIL** simulations.
+- 💻 **Embedded SW Implementation** (Porting control algorithms to MCU hardware).
+
+🎯 **Exploring:** Developing reliable and autonomous systems for **Mobility, Defense, and Robotics**.
 
 ## 📚 Skills
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
