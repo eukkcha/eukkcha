@@ -1,22 +1,16 @@
 ## 🧑🏻‍💻 Whoami
-I am an undergraduate student at **Sejong University** <br>
-in **Intelligent Mechatronics Engineering** (Unmanned Vehicle Engineering). <br>
-My core expertise is **Model-Based Design (MBD)**, with a focus on:
-- ⚙️ **Control Logic Development** using `MATLAB` & `Simulink`.
-- 🧪 **System Validation** via **MIL / SIL / HIL** simulations.
-- 💻 **Embedded SW Implementation** (Porting control algorithms to MCU hardware).
-
-🎯 **Exploring:** Developing reliable and autonomous systems for **Mobility, Defense, and Robotics**.
+I am an undergraduate student at Sejong University in Intelligent Mechatronics Engineering.<br>
+I'm a Software Engineer who loves solving complex problems, with a focus on:
+- 🚀 Transforming logic into scalable software.
+- 🧠 Strong background in **C/C++** & **Algorithms**, ensuring **memory-safe** and **fast executions**.
+- ☕ Expanding my toolkit with **Java/Spring** for enterprise-level backend development.
+- 📈 Always striving to write **clean**, **maintainable**, and **efficient** code. 
 
 ## 📚 Skills
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div> 
-        <img src="https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=C&logoColor=white"> 
-        <img src="https://img.shields.io/badge/matlab-3D506B?style=for-the-badge&logo=Atlassian&logoColor=white">
-        <img src="https://img.shields.io/badge/simulink-3D506B?style=for-the-badge&logo=Atlassian&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"> 
-      <br>
-        <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-        <img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-        <img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://skillicons.dev/icons?i=c,cpp,opencv" /><br>
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql" /><br>
+        <img src="https://skillicons.dev/icons?i=discord,bots,py,pytorch" /><br>
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,git" />
 </div><br>
