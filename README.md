@@ -13,5 +13,3 @@ Hello there!👋 I'm a **Software Engineer** who loves **solving complex problem
         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" /><br>
         <img src="https://skillicons.dev/icons?i=git,figma,notion" />
 </div><br>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eukkchan03)](https://solved.ac/eukkchan03)​
