@@ -1,9 +1,9 @@
 ## 🧑🏻‍💻 Whoami
-Hello there!👋 I'm a **Software Engineer** who loves **solving complex problems**, with a focus on:
-- 🚀 Transforming logic into scalable software.
-- 🧠 Strong background in **C/C++** & **Algorithms**, ensuring **memory-safe** and **high performance**.
-- ☕ Expanding my toolkit with **Java/Spring** for enterprise-level backend development.
-- 📈 Always striving to write **clean**, **maintainable**, and **efficient** code. 
+Hello there! I'm an undergraduate at Sejong University interested in computer vision for robotics and autonomous vehicles, with a focus on:
+- **Visual perception**: depth estimation and traversable terrain detection.
+- **Localization & mapping**: visual odometry and visual SLAM.
+- **Programming**: strong foundation in C/C++ and algorithms.
+- **Vision toolkit**: Python, OpenCV and PyTorch.
 
 ## 📚 Skills
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
