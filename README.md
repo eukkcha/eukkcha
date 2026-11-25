@@ -1,5 +1,5 @@
 ## 🧑🏻‍💻 Whoami
-Hello there! I'm an undergraduate at Sejong University interested in computer vision for robotics and autonomous vehicles, with a focus on:
+Hello there! I'm an undergraduate at Sejong University interested in computer vision for robotics and autonomous vehicles.
 - **Visual perception**: depth estimation and traversable terrain detection.
 - **Localization & mapping**: visual odometry and visual SLAM.
 - **Programming**: strong foundation in C/C++ and algorithms.
